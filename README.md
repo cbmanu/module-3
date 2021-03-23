@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Module 4
 
 
@@ -57,3 +58,8 @@ for (/* fill in parts of the 'for' loop to loop over names array */) {
   // 'j'. If the same, call byeSpeaker's 'speak' method with the current name
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
+=======
+Module 3
+website with bootstap 
+check the index
+>>>>>>> 554f268473ddfa6858d8f1c922b4bced0be9ac2f
