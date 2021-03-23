@@ -1,5 +1,13 @@
-let collapsingButton = document.querySelector(".button")
-let col2 = document.querySelector(".col")
-if(screen.width < 768){
-    collapsingButton.classList.add("col")
-}
+
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+
+
+  for(theName of names){
+    toLowerCase = theName.toLowerCase()
+    firstLetter = toLowerCase.startsWith("j")
+    if (firstLetter) {
+      byeSpeaker.sayBye();
+    } else {
+      helloSpeaker.sayHello();
+    }
+  }
